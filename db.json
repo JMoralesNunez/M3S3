@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "names": "Ana López",
+      "email": "ana@gmail.com",
+      "rol": "admin",
+      "phone": "3001234567",
+      "address": "Calle 123 #45-67",
+      "activo": true,
+      "age": 29
+    },
+    {
+      "id": "2",
+      "names": "Manuel Ruiz",
+      "email": "manuel.ruiz@gmail.com",
+      "rol": "usuario",
+      "phone": "3017037856",
+      "address": "Carrera 94 D #67-75",
+      "activo": true,
+      "age": 27
+    },
+    {
+      "id": "4",
+      "names": "María Gómez",
+      "email": "maria.gomez@yahoo.com",
+      "rol": "usuario",
+      "phone": "3129876543",
+      "address": "Avenida 10 #20-30",
+      "activo": true,
+      "age": 27
+    },
+    {
+      "id": "5",
+      "names": "Luis Rodríguez",
+      "email": "luis.r@correo.com",
+      "rol": "moderador",
+      "phone": "3112345678",
+      "address": "Calle 50 #30-40",
+      "activo": true,
+      "age": 41
+    },
+    {
+      "id": "6",
+      "names": "Camila Torres",
+      "email": "camila.t@gmail.com",
+      "rol": "usuario",
+      "phone": "3133214567",
+      "address": "Transversal 90 #12-34",
+      "activo": true,
+      "age": 22
+    },
+    {
+      "id": "7",
+      "names": "Esteban Ríos",
+      "email": "esteban.rios@empresa.com",
+      "rol": "usuario",
+      "phone": "3147891230",
+      "address": "Diagonal 80 #11-22",
+      "activo": false,
+      "age": 30
+    },
+    {
+      "id": "9",
+      "names": "Felipe Álvarez",
+      "email": "felipe.a@gmail.com",
+      "rol": "usuario",
+      "phone": "3162223344",
+      "address": "Carrera 100 #50-60",
+      "activo": true,
+      "age": 38
+    },
+    {
+      "id": "97b3",
+      "names": "Omar andres2",
+      "email": "omar@gmail.com",
+      "rol": "Usuario",
+      "phone": "1234252134",
+      "address": "Cra 1 acwe",
+      "activo": "true",
+      "age": "26"
+    }
+  ]
+}
